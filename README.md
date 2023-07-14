@@ -22,5 +22,5 @@ mvn clean package
 
 docker build -t springboot-restful-webservices .
 
-docker run --network springboot-mysql-net --name springboot-mysql-container -p 8888:8888 springboot-restful-webservices
+docker run --network springboot-mysql-net --name springboot-mysql-container -p 8080:8080 springboot-restful-webservices
 ```
