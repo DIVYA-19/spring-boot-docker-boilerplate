@@ -9,7 +9,7 @@ docker network create springboot-mysql-net
 
 ### To run the mysql docker image 
 ```
-docker run --name mysqldb --network springboot-mysql-net
+docker run --name mysqldb --network springboot-mysql-net -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=employeedb -d mysql
 ```
 ### To access the DB container
 ```
