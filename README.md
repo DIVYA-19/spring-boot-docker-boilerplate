@@ -31,7 +31,7 @@ docker run --network springboot-mysql-net --name springboot-mysql-container -p 8
 localhost:8080/api/employees
 ```
 
-![image](https://github.com/DIVYA-19/spring-boot-docker-boilerplate/assets/41481377/53e0d7d0-3457-4052-9425-fe0a515d310a)
+<img src="https://github.com/DIVYA-19/spring-boot-docker-boilerplate/assets/41481377/53e0d7d0-3457-4052-9425-fe0a515d310a" width="500" height="350">
+<br><br>
+<img src="https://github.com/DIVYA-19/spring-boot-docker-boilerplate/assets/41481377/abfa7e94-b569-4cae-9c04-2a72ff979dc4" width="500" height="350">
 
-
-![image](https://github.com/DIVYA-19/spring-boot-docker-boilerplate/assets/41481377/abfa7e94-b569-4cae-9c04-2a72ff979dc4)
